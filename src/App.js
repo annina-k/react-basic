@@ -1,7 +1,7 @@
 import React from 'react';
 
 function App() {
-  const value = 'World 999';
+  const value = 'World staging env';
   return <div>Hello {value}</div>;
 }
 
